@@ -20,7 +20,6 @@ public class SplashActivity extends BaseActivity {
     protected void setupView() {
         super.setupView();
         setContentView(R.layout.activity_splash);
-        setupActionBar(false);
     }
 
     @Override
