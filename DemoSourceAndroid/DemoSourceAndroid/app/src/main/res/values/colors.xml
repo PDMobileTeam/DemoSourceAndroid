@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_slate_gray">#2F4F4F</color>
+    <color name="gray_2">#AFAFAF</color>
+    <color name="gray_1">#C0C0C0</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#ff35b5e5</color>
+    <color name="color_facebook_enable">#304e8b</color>
+    <color name="color_twitter_enable">#55acee</color>
+    <color name="color_SNS_disable">#8899a6</color>
+</resources>
